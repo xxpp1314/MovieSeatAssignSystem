@@ -5,21 +5,6 @@ Implement an algorithm for assigning seats within a movie theater to fulfill res
 Your homework assignment is to design and write a seat assignment program to maximize both customer satisfaction and customer
 safety. For the purpose of public safety, assume that a buffer of three seats and/or one row is required.
 
-The Movie Theater's Screen
-        [[ SCREEN ]]
-     --------------------
-A    ssssssssssssssssssss
-B    ssssssssssssssssssss
-C    ssssssssssssssssssss
-D    ssssssssssssssssssss
-E    ssssssssssssssssssss
-F    ssssssssssssssssssss
-G    ssssssssssssssssssss
-H    ssssssssssssssssssss
-I    ssssssssssssssssssss
-J    ssssssssssssssssssss
-     1      …………       20
-
 Input
 R001 2
 R002 3
